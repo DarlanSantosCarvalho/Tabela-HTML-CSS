@@ -1,0 +1,33 @@
+.topo-tabela-moda{
+    background-color: #BB86FC;
+}
+
+.topo-tabela-casa{
+    background-color: #00c4b4;
+}
+
+.camiseta td{
+background-color: #424250;
+color: white;
+width: 80px;
+text-align: center;
+}
+
+.tenis td{
+    background-color: #424250;
+    color: white;
+    text-align: center;
+}
+
+.sofa td{
+    background-color: #424250;
+    color: white;
+    text-align: center;
+}
+
+.tv td{
+    background-color: #424250;
+    color: white;
+    width: 80px;
+    text-align: center;
+}
